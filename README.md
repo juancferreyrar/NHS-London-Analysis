@@ -1,6 +1,6 @@
 # NHS-London-Analysis
 The NHS has access to an exhaustive database that ranges through several key 
-performance indicators that can be used to evaluate trends. The purpose of utizing this 
+performance indicators that can be used to evaluate trends. The purpose of utilizing this 
 data is to ensure to have measurable benchmarks and actionable recommendations, as 
 often these trends can ensure to increase and improve productivity, effectiveness, 
 resource allocation, and more. The NHS datasets include information regarding the 
